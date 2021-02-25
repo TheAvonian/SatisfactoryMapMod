@@ -1,4 +1,2 @@
 # Satisfactory Map Mod
-This is a way to view the game more like Factorio for better organization and factory management.
-
-# Very WIP
+Gives the player an option to pull up a map to further bridge the divide between Factorio and Satisfactory.
